@@ -1,0 +1,37 @@
+STUDENT REPORT
+=================================
+Student Name : Lahya Sree
+Roll Number  : 23031A0506
+
+CNS : 78 Marks | Grade B | Contribution 16.08%
+CC : 80 Marks | Grade A | Contribution 16.49%
+CD : 82 Marks | Grade A | Contribution 16.91%
+SPM : 90 Marks | Grade A+ | Contribution 18.56%
+MPMC : 70 Marks | Grade B | Contribution 14.43%
+ML : 85 Marks | Grade A | Contribution 17.53%
+
+Total Marks : 485
+Average Percentage : 80.83%
+Overall Grade : A
+CGPA : 8.51
+Highest Subject : SPM (90)
+Lowest Subject : MPMC (70)
+Performance : Very Good
+Distinction : YES
+Scholarship : Not Eligible
+Result Status : PASS
+Teacher Remark : Very Good Performance
+
+GRADE DISTRIBUTION
+A+ : 1
+A  : 3
+B  : 2
+C  : 0
+D  : 0
+F  : 0
+
+CLASS RESULT ANALYSIS
+Total Subjects : 6
+Passed Subjects : 6
+Failed Subjects : 0
+Pass Rate : 100.00%
